@@ -86,8 +86,8 @@ docker compose down
 git init
 git status
 git add .
-git config --global user.name "Jose Gabriel Zambrano Burgos"
-git config --global user.email "gabrielrebelde8@gmail.com"
+git config --global user.name "JamesMolina"
+git config --global user.email "e1351661739@live.uleam.edu.ec"
 git commit -m "Init"
 
 
